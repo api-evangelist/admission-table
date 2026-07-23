@@ -1,7 +1,26 @@
 aid: admission-table
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/admission-table.png
 name: Admission Table
-description: Admission Table is a company surfaced as a portfolio company of 500-global and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: 'Admission Table (admissiontable.com) was a study-abroad and overseas-education
+  counseling platform founded in 2013 by Manish Katyan and Duleep Deosthale, offering
+  real-time student counseling, university admissions guidance, scholarships, financing,
+  and online test preparation for the SAT, GRE, GMAT, TOEFL, and IELTS. It was backed
+  by 500 Global, NYU, and Aarin Capital, and was subsequently acquired by Azent Overseas
+  Education. The admissiontable.com domain now permanently redirects (HTTP 301) to
+  azent.com. This entry was surfaced as a 500 Global portfolio company and added to
+  the API Evangelist network as a stub; enrichment found no public API, developer
+  program, or API documentation on either host, so no API artifacts were produced.'
 url: https://raw.githubusercontent.com/api-evangelist/admission-table/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +28,21 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: acquired
+x-acquired-by: Azent Overseas Education
+x-redirects-to: https://www.azent.com/
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Education
+- EdTech
+- Study Abroad
+- Admissions
+- Test Preparation
+- Counseling
+- Acquired
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,16 @@ maintainers:
 common:
 - type: Website
   url: https://admissiontable.com
+- type: PrivacyPolicy
+  url: https://www.azent.com/privacy
+- type: TermsOfService
+  url: https://www.azent.com/terms
+- type: Support
+  url: https://www.azent.com/contact-us
+- type: Blog
+  url: https://www.azent.com/expert-tips
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
