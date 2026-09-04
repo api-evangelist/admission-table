@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://admissiontable.com', status: 301, note: 'declared website redirects to https://www.azent.com/ — a different registrable domain (admissiontable.com -> azent.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/admission-table.png
 name: Admission Table
 description: 'Admission Table (admissiontable.com) was a study-abroad and overseas-education
