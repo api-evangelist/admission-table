@@ -64,6 +64,38 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Admission Table is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: 500-global — https://admissiontable.com
+Admission Table (admissiontable.com) was a study-abroad and overseas-education counseling platform founded in 2013 by Manish Katyan and Duleep Deosthale, offering real-time student counseling, university admissions guidance, scholarships, financing, and online test preparation for the SAT, GRE, GMAT, TOEFL, and IELTS. It was backed by 500 Global, NYU, and Aarin Capital, and was subsequently acquired by Azent Overseas Education. The admissiontable.com domain now permanently redirects (HTTP 301) to azent.com. This entry was surfaced as a 500 Global portfolio company and added to the API Evangelist network as a stub; enrichment found no public API, developer program, or API documentation on either host, so no API artifacts were produced.
+
+**Areas:** Company · Education · EdTech · Study Abroad · Admissions · Test Preparation · Counseling · Acquired
+
+## Admission Table on APIs.io (historical record)
+
+Everything profiled for Admission Table is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/admission-table/](https://apis.io/providers/admission-table/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://admissiontable.com)
+- [Support](https://www.azent.com/contact-us)
+- [Blog](https://www.azent.com/expert-tips)
+- [Terms of service](https://www.azent.com/terms)
+- [Privacy policy](https://www.azent.com/privacy)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Admission Table: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/admission-table/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
